@@ -22,6 +22,10 @@
       }
     ],
     "template": "op.html",
-    "dest": "opwdss"
+    "dest": "opwdss",
+    "globalMetadata": {
+      "layout": "Conceptual",
+      "breadcrumb_path": "/bctechnet/toc.json"
+    }
   }
 }
