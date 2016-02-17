@@ -1,4 +1,4 @@
-#[Windows Server 2016 Technical Preview Windows Server 2016 Technical Preview](001.md)
+#[Features Removed or Deprecated in Windows Server 2016 Technical Preview](001.md)
 # Table
 ##[CommonTable](commontab.md)
 ##[NestedTable](nestedtab.md)
